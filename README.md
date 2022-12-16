@@ -85,10 +85,11 @@
       <br />
    </ul>
 </details>
-<br />
 
 <!-- ===========================================       Contact me       ========================================================= -->
+
 <hr>
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:
 <p align="left">
    <a href="https://t.me/ssesultan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
