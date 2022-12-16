@@ -103,3 +103,9 @@
 <a href="https://leetcode.com/ss_softwareit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="30" width="40" /></a>
 
 </p>
+
+<!-- ===========================================       Snake       ========================================================= -->
+
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+<h3 align="center">Thank you so much for coming here :pray:</h3>
+
