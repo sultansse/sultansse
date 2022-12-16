@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sultansse&theme=dracula)](https://github.com/sultansse/github-profile-trophy)
+
+[![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse)](https://github.com/sultansse/github-readme-stats)
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&hide=contribs,prs)
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&count_private=true)
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&show_icons=true)
+![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&show_icons=true&theme=dracula)
