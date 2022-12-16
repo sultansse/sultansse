@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Sultan Suleimenov👑
-### Android Developer at Kolesa Group company 
+### Android Developer at *Kolesa Group* company 
 
 
 <!--
@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 -->
 
 
-⚡ GitHub Profile Stats
-
 ![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&show_icons=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sultansse&theme=github-dark)](https://git.io/streak-stats)
 
-
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
