@@ -9,15 +9,21 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About ME 💬 :
 <details>
    <summary>🧑 More about me</summary>
+   
    ## - I'm 20 years old Android developer from Kazakhstan.
    <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+   
    ### - Learning :
+   
    - ✨ Data Structures & Algorithms
    - ✨ *Android* developing and optimization tools
+   
    ### - Hobbies : 
+   
    - ✨ CS:GO
    - ✨ Watching Anime / Films
    - ✨ Music listenning / playing 🎹 & 🎸
+   
 </details>
 
 <!-- ===========================================       Languages & Tools       ========================================================= -->
@@ -26,7 +32,7 @@
 </br>
 <p align="center">
    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-   <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/kotlin.png" alt="java"  width="100" hight="50">
    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
    <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
@@ -48,6 +54,12 @@
 ![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&show_icons=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sultansse&theme=github-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultansse&layout=compact&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ===========================================       Graph       ========================================================= -->
+
+<a align="right" href="https://github.com/issues?q=is%3Aissue+author%3Asultansse+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sultansse&theme=github_dark&hide_border=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117"  width="64%" alt="sultansse's profile-details"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3Asultansse+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sultansse&theme=github_dark&utcOffset=4&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117"  width="31%" alt="sultansse's productive-time"/></a>
+
 
 <!-- ===========================================       Other Stats       ========================================================= -->
 
@@ -74,10 +86,9 @@
    </ul>
 </details>
 <br />
-<hr>
 
 <!-- ===========================================       Contact me       ========================================================= -->
-
+<hr>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:
 <p align="left">
    <a href="https://t.me/ssesultan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
