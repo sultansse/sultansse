@@ -1,8 +1,10 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%;" />
+</div>  
 <!-- ===========================================       Header       ========================================================= -->
 
-<h1 align="center">Hello 👋, I'm Sultan Suleimenov 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Sultan Suleimenov. I have a keen interest in Android, Kotlin and Mobile Development and have a huge fascination with the inner workings of technology.</h3>
-</br>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Sultan Suleimenov <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35" height="35" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" /></h1>
+<h3 align="center">Hey it's me Sultan Suleimenov<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" />. I have a keen interest in Android, Kotlin and Mobile Development and have a huge fascination with the inner workings of technology.</h3>
 
 <!-- ===========================================       About me       ========================================================= -->
 
@@ -84,7 +86,7 @@
 
 <!-- ===========================================       Other Stats       ========================================================= -->
 
-## 👨‍💻 **Other Stats:**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" /> **Other Stats:**
 <details>
    <summary>🏆 <b>Github Profile Trophy</b></summary>
    </br>
@@ -111,7 +113,7 @@
 <hr>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:
-### PS: You can click icons below 👇:
+### PS: You can click icons below <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="25" height="25" />:
 <p align="left">
    <a href="https://t.me/ssesultan" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ss.softwareit@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
