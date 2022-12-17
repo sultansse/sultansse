@@ -24,7 +24,7 @@
    - ✨ Watching Anime / Films
    - ✨ Music listenning / playing 🎹 & 🎸
    
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge)
    </br> 
 </details>
 </br>
@@ -47,7 +47,7 @@ public class CurrentStack {
 <!--    <img src="">   -->
 <p align="center">
    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
    </br>
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -91,10 +91,10 @@ public class CurrentStack {
    <summary>⚙️ <b> Things I use to get stuff done</b></summary>
    </br>
    <ul>
-      <li><b>Laptop: </b> <img src="https://img.shields.io/badge/Windows-lenovo_Legion_y540-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </li>
-      <li><b>CPU: </b> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
-      <li><b>Browser: </b> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
-      <li><b>IDE :</b> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
+      <li><b>Laptop:          </b> <img src="https://img.shields.io/badge/Windows-lenovo_Legion_y540-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </li>
+      <li><b>CPU:             </b> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
+      <li><b>Browser:         </b> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
+      <li><b>IDE:             </b> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
       <li><b>To Stay Updated: </b> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></li>
    </ul>
 </details>
