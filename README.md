@@ -28,38 +28,45 @@
    </br> 
 </details>
 </br>
-<!-- ===========================================       Stack & Tools       ========================================================= -->
+<!-- ===========================================       Stack       ========================================================= -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Stack & Tools 🛠:
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Stack:
 
-```java
-import java.util.*;
-
-public class CurrentStack {
-    String[] languages = { "Java", "Kotlin" };
-    String[] frameworks = { "Room", "Coroutines", "Retrofit", "Moshi", "Material Components", "Jetpack Compose" };
-    String[] other = { "Clean Architecture" , "MVVM", "Navigation", "LiveData", "WorkManager", "Threads", "LifeCycle" };
-    String[] technologies = { "Figma", "JavaFX", "Git", "GitHub", "Notion" };
-}
-```
-</br>
-
-<!--    <img src="">   -->
 <p align="center">
+   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+   <img src="https://img.shields.io/badge/MVVM-0078D6?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/Clean Architecture-00d67c?style=for-the-badge&logoColor=white">
    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
    </br>
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+   <img src="https://img.shields.io/badge/Room-0078D6?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/Coroutines-c600c7?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/OkHttp-00dae6?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/Retrofit-fe9c1b?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/Moshi-0169d0?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/Jetpack-0e61ea?style=for-the-badge&logoColor=white">
    </br>
-   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+   <img src="https://img.shields.io/badge/LiveData-58fe55?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/List Adapter-ffc630?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/Navigation Component-5bffa1?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/DataBinding-c323ff?style=for-the-badge&logoColor=white">
 </p> 
 
-</br>
+<!-- ===========================================       Tools       ========================================================= -->
+
+## 🛠 Tools:
+<p align="center">
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+   <img src="https://img.shields.io/badge/Android%20Studio-3CDA89?style=for-the-badge&logo=android-studio&logoColor=white">
+   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white">
+   </br>
+   <img src="https://img.shields.io/badge/figma-FD35E2?style=for-the-badge&logo=figma&logoColor=white">
+   <img src="https://img.shields.io/badge/Canva-00C5CD?style=for-the-badge&logo=Canva&logoColor=white">
+   <img src="https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
+   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</p> 
+
 <!-- ===========================================       Github Stats       ========================================================= -->
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
@@ -91,11 +98,11 @@ public class CurrentStack {
    <summary>⚙️ <b> Things I use to get stuff done</b></summary>
    </br>
    <ul>
-      <li><b>Laptop:          </b> <img src="https://img.shields.io/badge/Windows-lenovo_Legion_y540-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </li>
-      <li><b>CPU:             </b> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
-      <li><b>Browser:         </b> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
-      <li><b>IDE:             </b> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
-      <li><b>To Stay Updated: </b> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></li>
+   <li><b>--Laptop------------</b> <img src="https://img.shields.io/badge/Windows-lenovo_Legion_y540-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </li>
+   <li><b>--CPU---------------</b> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
+   <li><b>--Browser-----------</b> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
+   <li><b>--IDE----------------</b> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
+   <li><b>--To Stay Updated--</b>   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></li>
    </ul>
 </details>
 
