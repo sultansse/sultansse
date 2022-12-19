@@ -19,6 +19,7 @@
    
    - ✨ Data Structures & Algorithms
    - ✨ *Android* developing and optimization tools
+   - ✨ App Design tools
    
    ### - Hobbies : 
    
@@ -77,7 +78,6 @@
 
 ![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&show_icons=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sultansse&theme=github-dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultansse&layout=compact&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ===========================================       Graph       ========================================================= -->
 
