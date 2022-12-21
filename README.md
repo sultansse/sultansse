@@ -100,10 +100,11 @@
    </p>
 </details>
 <details>
-   <summary>🧩 <b>LeetCode profile</b></summary>
+   <summary>🧩 <b>LeetCode profile stats</b></summary>
    </br>
-   <p align="center">
-      <img src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark">
+   <p >
+      <img  src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark">
+      <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
    </p>
 </details>
 <details>
