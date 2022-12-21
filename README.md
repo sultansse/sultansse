@@ -88,6 +88,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 4 hrs 13 mins
+
 Kotlin           2 hrs 48 mins   ████████████████▓░░░░░░░░   66.38 %
 XML              1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
 Groovy           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
