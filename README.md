@@ -79,13 +79,14 @@
 ![Sultan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sultansse&show_icons=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sultansse&theme=github-dark)](https://git.io/streak-stats)
 
-<!-- ===========================================       WakaTime       ========================================================= -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <!-- ===========================================       Graph       ========================================================= -->
 
 <a align="right" href="https://github.com/issues?q=is%3Aissue+author%3Asultansse+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sultansse&theme=github_dark&hide_border=true&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117"  width="64%" alt="sultansse's profile-details"/></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3Asultansse+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sultansse&theme=github_dark&utcOffset=4&title_color=39d353&text_color=fefefe&icon_color=1e6eea&border_color=39d353&bg_color=0d1117"  width="31%" alt="sultansse's productive-time"/></a>
+
+<!-- ===========================================       WakaTime       ========================================================= -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- ===========================================       Other Stats       ========================================================= -->
 
