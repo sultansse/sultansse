@@ -88,6 +88,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 16 December 2022 - To: 20 December 2022
+
 Total Time: 4 hrs 13 mins
 
 Kotlin           2 hrs 48 mins   ████████████████▓░░░░░░░░   66.38 %
