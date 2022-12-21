@@ -118,7 +118,7 @@ Properties       0 secs          ░░░░░░░░░░░░░░░�
    <summary>🧩 <b>LeetCode profile stats</b></summary>
    </br>
    <p >
-      <img  src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark">
+      <img  src="https://leetcode-stats-six.vercel.app/api?username=Talgat77&theme=dark">
       <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
    </p>
 </details>
