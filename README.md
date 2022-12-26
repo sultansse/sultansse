@@ -130,7 +130,7 @@ Properties       0 secs          ░░░░░░░░░░░░░░░�
    <li><b>--CPU---------------</b> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
    <li><b>--Browser-----------</b> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
    <li><b>--IDE----------------</b> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
-   <li><b>--To Stay Updated--</b>   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></li>
+   <li><b>--To Stay Updated--</b>   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></li>
    </ul>
 </details>
 
