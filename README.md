@@ -36,23 +36,23 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Stack:
 
 <p align="center">
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-   <img src="https://img.shields.io/badge/MVVM-0078D6?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Clean Architecture-00d67c?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVVM-0078D6?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Clean Architecture-00d67c?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
    </br>
-   <img src="https://img.shields.io/badge/Room-0078D6?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Coroutines-c600c7?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/OkHttp-00dae6?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Retrofit-fe9c1b?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Moshi-0169d0?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Jetpack-0e61ea?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Room-0078D6?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Coroutines-c600c7?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/OkHttp-00dae6?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Retrofit-fe9c1b?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Moshi-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Jetpack-0e61ea?style=for-the-badge&logoColor=white">
    </br>
-   <img src="https://img.shields.io/badge/LiveData-58fe55?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/List Adapter-ffc630?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/Navigation Component-5bffa1?style=for-the-badge&logoColor=white">
-   <img src="https://img.shields.io/badge/DataBinding-c323ff?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/LiveData-58fe55?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/List Adapter-ffc630?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Navigation Component-5bffa1?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/DataBinding-c323ff?style=for-the-badge&logoColor=white">
 </p> 
 
 <!-- ===========================================       Tools       ========================================================= -->
