@@ -17,9 +17,11 @@
    
    ### - Learning :
    
-   - ✨ Data Structures & Algorithms
+   - ✨ New featutures of Android developing
    - ✨ *Android* developing and optimization tools
    - ✨ App Design tools
+
+ps: I love the channel of <a href="https://www.youtube.com/@StevdzaSan">Stevzda-san</a>, who is also Android dev , and UI|UX desginer, he makes beautiful and very informationally useful videos
    
    ### - Hobbies : 
    
