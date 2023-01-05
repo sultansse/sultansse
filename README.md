@@ -128,11 +128,14 @@ Properties       0 secs          ░░░░░░░░░░░░░░░�
    <summary>⚙️ <b> Things I use to get stuff done</b></summary>
    </br>
    <ul>
-   <li><b>--Laptop------------</b> <img src="https://img.shields.io/badge/Windows-lenovo_Legion_y540-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </li>
-   <li><b>--CPU---------------</b> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
-   <li><b>--Browser-----------</b> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
-   <li><b>--IDE----------------</b> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
-   <li><b>--To Stay Updated--</b>   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">  <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></li>
+   <li><b>Laptop</b> </br> <img src="https://img.shields.io/badge/Windows-lenovo_Legion_y540-0078D6?style=for-the-badge&logo=windows&logoColor=white"> </li>
+   <li><b>CPU</b> </br> <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"> </li>
+   <li><b>Browser</b> </br> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"></li>
+   <li><b>IDE</b> </br> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></li>
+   <li><b>To Stay Updated</b> </br> 
+   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">  
+   <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> 
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></li>
    </ul>
 </details>
 
