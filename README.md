@@ -89,19 +89,6 @@ ps: I love the channel of <a href="https://www.youtube.com/@StevdzaSan">Stevzda-
 <!-- ===========================================       WakaTime       ========================================================= -->
 <!--START_SECTION:waka-->
 
-```text
-From: 16 December 2022 - To: 20 December 2022
-
-Total Time: 4 hrs 13 mins
-
-Kotlin           2 hrs 48 mins   ████████████████▓░░░░░░░░   66.38 %
-XML              1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-Groovy           8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-GitIgnore file   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Gradle           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- ===========================================       Other Stats       ========================================================= -->
