@@ -22,7 +22,7 @@ jobs:
     - name: Update README
       uses: jamesgeorge007/github-activity-readme@master
       with:
-        token: ${{ secrets.github_token }}
+        token: ${{ secrets.token_github }}
         username: sultansse
         waka-time: true
         show-icons: true
