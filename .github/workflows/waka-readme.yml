@@ -1,28 +1,16 @@
-name: WakaTime Metrics
+name: Work Stats Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
-    - name: Install WakaTime CLI
-      run: pip install wakatime
-    - name: Update Metrics
-      env:
-        WAKATIME_API_KEY: ${{ secrets.waka_api_key }}
-      run: wakatime --entity sultansse --api-key $WAKATIME_API_KEY --write-quietly
-    - name: Update README
-      uses: jamesgeorge007/github-activity-readme@master
-      with:
-        token: ${{ secrets.token_github }}
-        username: sultansse
-        waka-time: true
-        show-icons: true
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
