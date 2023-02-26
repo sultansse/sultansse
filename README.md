@@ -16,24 +16,28 @@
    ### - I'm 20 years old Android developer from Kazakhstan.
    
   <img hight="300" width="400" alt="GIF" align="right" src="https://media.tenor.com/tUU1eFs2-osAAAAi/nezuko-anime.gif">
-   
-   ### - Learning :
-   
-   - ✨ New featutures of Android developing
-   - ✨ *Android* developing and optimization tools
-   - ✨ App Design tools
-   
-   ### - Hobbies : 
-   
-   - ✨ CS:GO
-   - ✨ Watching Anime / Films
-   - ✨ Music listenning / playing 🎹 & 🎸
-   
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge)
       
-   </br> 
+   ### 🌌 Learning :
+   
+   - New features of Android developing
+   - *Android* developing and optimization tools
+   - App Design tools
+   
+   ### 🎈 Hobbies : 
+   
+   - CS:GO
+   - Watching Anime / Films
+   - Music listenning / playing 🎹 & 🎸
+ 
+   ### 📗 Currently Reading :
+ 
+   - Design patterns 
+   - Clean Code 
+  
+      <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge" alt="visitor badge">
+
 </details>
-</br>
+
 <!-- ===========================================       Stack       ========================================================= -->
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Stack:
