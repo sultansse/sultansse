@@ -11,17 +11,17 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About ME 💬 :
 <details>
    <summary>🧑 More about me</summary>
+ 
+  
+   ### - I'm 20 years old Android developer from Kazakhstan.
    
-   ## - I'm 20 years old Android developer from Kazakhstan.
-   <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+  <img hight="300" width="400" alt="GIF" align="right" src="https://media.tenor.com/tUU1eFs2-osAAAAi/nezuko-anime.gif">
    
    ### - Learning :
    
    - ✨ New featutures of Android developing
    - ✨ *Android* developing and optimization tools
    - ✨ App Design tools
-
-ps: I love the channel of <a href="https://www.youtube.com/@StevdzaSan">Stevzda-san</a>, who is also Android dev , and UI|UX desginer, he makes beautiful and very informationally useful videos
    
    ### - Hobbies : 
    
@@ -30,6 +30,7 @@ ps: I love the channel of <a href="https://www.youtube.com/@StevdzaSan">Stevzda-
    - ✨ Music listenning / playing 🎹 & 🎸
    
    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge)
+      
    </br> 
 </details>
 </br>
