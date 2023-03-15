@@ -34,7 +34,7 @@
    - Design patterns 
    - Clean Code 
   
-      <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge" alt="visitor badge">
+  ![badge](https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge)
 
 </details>
 
