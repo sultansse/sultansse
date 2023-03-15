@@ -77,6 +77,9 @@
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </p> 
 
+<a align="center" href="https://ssesultan.notion.site/Coding-f75ae28b2a284d57b92c366f5265db4a">Here is my Notion Page</a>
+
+
 <!-- ===========================================       Github Stats       ========================================================= -->
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
