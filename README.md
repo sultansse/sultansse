@@ -77,7 +77,12 @@
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </p> 
 
-<a align="center" href="https://ssesultan.notion.site/Coding-f75ae28b2a284d57b92c366f5265db4a">Here is my Notion Page</a>
+<p  align="center">Check out my aesthetic Notion Page 
+   <br>
+   with info about my projects, current book etc. Click below 👇
+   <br>
+<a href="https://ssesultan.notion.site/Coding-f75ae28b2a284d57b92c366f5265db4a"><img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white"></a>
+</p>
 
 
 <!-- ===========================================       Github Stats       ========================================================= -->
