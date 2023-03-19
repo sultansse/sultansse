@@ -79,7 +79,9 @@
 
 <p  align="center">Check out my aesthetic Notion Page 
    <br>
-   with info about my projects, current book etc. Click below 👇
+   with info about my projects, current book etc. 
+   <br>
+   Click below <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="25" height="25" />
    <br>
 <a href="https://ssesultan.notion.site/Coding-f75ae28b2a284d57b92c366f5265db4a"><img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
