@@ -30,62 +30,45 @@
    - Music listenning / playing 🎹 & 🎸
  
    ### 📗 Currently Reading :
- 
-   - Design patterns 
+   - Clean Architecture
    - Clean Code 
+   
+   ### 📗 Already Read:
+   - design Patterns 
   
   ![badge](https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge)
 
 </details>
 
-<!-- ===========================================       Stack       ========================================================= -->
+<!-- ===========================================       Skills       ========================================================= -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Stack:
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Skills:
 
 <p align="center">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVVM-0078D6?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Clean Architecture-00d67c?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/java-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/kotlin-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVVM-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVP-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Clean Architecture-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/SOLID-0169d0?style=for-the-badge&logoColor=white">
    </br>
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Room-0078D6?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Coroutines-c600c7?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/OkHttp-00dae6?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Retrofit-fe9c1b?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Room-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/LiveData-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Binding-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Navigation-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Coroutines-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Work Manager-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Jetpack Compose-0169d0?style=for-the-badge&logoColor=white">
+   </br>
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-0169d0?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/OkHttp-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Retrofit-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Moshi-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Jetpack-0e61ea?style=for-the-badge&logoColor=white">
-   </br>
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/LiveData-58fe55?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/List Adapter-ffc630?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Navigation Component-5bffa1?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/DataBinding-c323ff?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Glide-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Gson-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/DI-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/JUnit-0169d0?style=for-the-badge&logoColor=white">
 </p> 
-
-<!-- ===========================================       Tools       ========================================================= -->
-
-## 🛠 Tools:
-<p align="center">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/Android%20Studio-3CDA89?style=for-the-badge&logo=android-studio&logoColor=white">
-   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white">
-   </br>
-   <img src="https://img.shields.io/badge/figma-FD35E2?style=for-the-badge&logo=figma&logoColor=white">
-   <img src="https://img.shields.io/badge/Canva-00C5CD?style=for-the-badge&logo=Canva&logoColor=white">
-   <img src="https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=Brave&logoColor=white">
-   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</p> 
-
-<p  align="center">Check out my aesthetic Notion Page 
-   <br>
-   with info about my projects, current book etc. 
-   <br>
-   Click below <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" width="25" height="25" />
-   <br>
-<a href="https://ssesultan.notion.site/Coding-f75ae28b2a284d57b92c366f5265db4a"><img src="https://img.shields.io/badge/Notion-37352F?style=for-the-badge&logo=notion&logoColor=white"></a>
-</p>
-
 
 <!-- ===========================================       Github Stats       ========================================================= -->
 
