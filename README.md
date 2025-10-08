@@ -4,7 +4,7 @@
 <!-- ===========================================       Header       ========================================================= -->
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Sultan Suleimenov <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35" height="35" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" /></h1>
-<h3 align="center">Hey it's me Sultan Suleimenov<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" />. I have a keen interest in Android, Kotlin and Mobile Development and have a huge fascination with the inner workings of technology.</h3>
+<h3 align="center">Hey it's me Sultan Suleimenov<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="35" height="35" />. I have a keen interest in Mobile Development and Software Enigneering and have a huge fascination with the inner workings of technology.</h3>
 
 <!-- ===========================================       About me       ========================================================= -->
 
@@ -13,15 +13,14 @@
    <summary>🧑 More about me</summary>
  
   
-   ### - I'm 20 years old Android developer from Kazakhstan.
+   ### - I'm 23 years old Android developer from Kazakhstan.
    
   <img hight="300" width="400" alt="GIF" align="right" src="https://media.tenor.com/tUU1eFs2-osAAAAi/nezuko-anime.gif">
       
    ### 🌌 Learning :
    
-   - New features of Android developing
-   - *Android* developing and optimization tools
-   - App Design tools
+   - Mobile development
+   - Software engineering
    
    ### 🎈 Hobbies : 
    
@@ -30,13 +29,14 @@
    - Music listenning / playing 🎹 & 🎸
  
    ### 📗 Currently Reading :
-   - Clean Architecture
-   - Clean Code 
+   - Java_Concurrency На Практике для Профессионалов - Геттс, Пэйерлс, Блох 
+   - Compose Internals - ANDREI SHIKOV - 2022
+   - Java Generics and Collections Maurice Naftalin, Philip Wadler 2007
    
    ### 📗 Already Read:
-   - design Patterns 
-  
-  ![badge](https://visitor-badge.glitch.me/badge?page_id=sultansse.visitor-badge)
+   - design Patterns
+   - Clean Architecture
+   - Clean Code 
 
 </details>
 
@@ -47,27 +47,23 @@
 <p align="center">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/java-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/kotlin-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVVM-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVP-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Clean Architecture-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/SOLID-0169d0?style=for-the-badge&logoColor=white">
-   </br>
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Room-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/LiveData-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Binding-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Navigation-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Coroutines-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Work Manager-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/coroutines-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/flow-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Android SDK-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Jetpack Compose-0169d0?style=for-the-badge&logoColor=white">
    </br>
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-0169d0?style=for-the-badge&logo=Firebase&logoColor=FFCC2F">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/OkHttp-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Android Jetpack-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Firebase-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Retrofit-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/ktor-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/koin-0169d0?style=for-the-badge&logoColor=white">
+   </br>
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Moshi-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/Glide-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/Gson-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Glide-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Coil-0169d0?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/DI-0169d0?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/JUnit-0169d0?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/Tests-0169d0?style=for-the-badge&logoColor=white">
 </p> 
 
 <!-- ===========================================       Github Stats       ========================================================= -->
@@ -135,7 +131,4 @@
    <a href="https://leetcode.com/ssesultan/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
 
-<!-- ===========================================       Snake       ========================================================= -->
-
-<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
 <h3 align="center">Thank you so much for coming here :pray:</h3>
